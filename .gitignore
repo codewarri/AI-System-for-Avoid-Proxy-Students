@@ -11,6 +11,11 @@ dist/
 build/
 *.log
 
+venv*/
+
+myenv*/
+
+
 # OS artifacts
 Thumbs.db
 .DS_Store
