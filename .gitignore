@@ -1,0 +1,40 @@
+# Python / virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.egg-info/
+
+dist/
+build/
+*.log
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+
+# Project data and generated outputs
+TrainingImage/
+TrainingImageLabel/
+CapturedImages/
+RecognizedImages/
+UnauthorizedImages/
+Attendance/
+StudentDetails/
+html/
+graphify-out/
+*.sqlite3
+*.db
+
+# Specific PDF files
+cetificate.pdf
+final report print.pdf
+plagraism_report.pdf
+sponsorship letter.pdf
+project diary.pdf
+rearch_paper.pdf
+
+
+!docs/**/*.pdf
